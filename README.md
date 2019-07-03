@@ -5,7 +5,7 @@ Heroes of Might and Magic III is a turn-based strategy game developed by Jon Van
 
 ## About project:
 This game was developed by HEROESEX team in order to pay tribute to the original HOMM game. We aimed to recreate the battle between Castle and Inferno.<br/>
-The goal was to:
+**The goal was to:**
 * practice OOP concept in Java
 * practice MVC (Model, View, Controller) design pattern
 * use JavaFx as a GUI
