@@ -10,6 +10,11 @@ That was team project created during my education in Codecool.
 * Java
 * JavaFx
 
+## Team members:
+* https://github.com/Karolzp
+* https://github.com/elYaro
+* https://github.com/JanBartoszek
+
 ## Gameplay video:
 You can watch gameplay here: https://www.youtube.com/watch?v=glIUpIUBfUU.
 
