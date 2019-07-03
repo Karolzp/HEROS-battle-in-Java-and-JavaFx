@@ -1,6 +1,6 @@
 # Heroes III battle
 
-## Whats Heroes of Might and Magic III?
+## What's Heroes of Might and Magic III?
 Heroes of Might and Magic III is a turn-based strategy game developed by Jon Van Caneghem through New World Computing originally released for Microsoft Windows by the 3DO Company in 1999. It involves capturing and developing towns, gathering resources, assembling armies and sending them into combat. For more information visit https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III.
 
 ## About project:
