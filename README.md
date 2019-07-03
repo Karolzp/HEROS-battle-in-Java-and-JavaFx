@@ -8,6 +8,7 @@ This game was developed by HEROESEX team in order to pay tribute to the original
 The goal was to:
 * learn basics of Java language
 * practice MVC (Model, View, Controller) design pattern
+
 That was team project created during my education in Codecool.
 
 ## Used technology:
